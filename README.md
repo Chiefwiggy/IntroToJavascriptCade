@@ -95,6 +95,8 @@ The function you must write takes one input, a number, and returns the date that
 
 **Challenge:** *Write this function so it can handle decimals, too.*
 
+---
+
 ## Section 7: Pick a Card, Any Card
 Using Node.js, make two classes: A Card class and a CardDeck class.
 
@@ -252,4 +254,8 @@ Using HTML/CSS/JavaScript, create a portfolio, either for yourself or a fictiona
 - Multiple Classes and ID tags.
 
 **Challenge:** Create a carousel of images. You might want to look into jQuery. The Internet is your tool. Feel free to research, but don't just copy and paste code.
+
+--- 
+## Open Project: Site Mirror   
+Using HTML/CSS, choose a website and try to recreate is visually.
 
