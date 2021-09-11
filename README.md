@@ -7,7 +7,7 @@ You may only use `random11()` to generate your random number.
 
 ```
 const random11 = () => {
-    return Math.rand() * 10 + 1;   
+    return Math.random() * 10 + 1;   
 }
 ```
 **Challenge:** *Complete this challenge using at most 2 operations*
